@@ -1,1 +1,2 @@
-COPY THIS AND PASTE INTO YOUR BROWSER!!!
+Click this!!!
+https://meaknoname.github.io/Ez/
